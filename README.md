@@ -124,7 +124,7 @@ properties/variables), Bootstrap 5, and JavaScript.  Key features: • Multiple 
     </section>
 
     <footer class="py-4 text-center">
-        <small class="text-muted">© Your Name • Front-End Developer</small>
+        <small class="text-muted">© Mohanad Habeeb• Front-End Developer</small>
     </footer>
 
     <!-- Bootstrap JS -->
